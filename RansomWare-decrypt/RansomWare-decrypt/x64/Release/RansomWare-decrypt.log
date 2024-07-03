@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\lasse\Desktop\Odyssey-RansomWare\RansomWare-decrypt\RansomWare-decrypt\CRYP256C.h(61,37): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+C:\Users\lasse\Desktop\Odyssey-RansomWare\RansomWare-decrypt\RansomWare-decrypt\CRYP256C.h(62,37): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  Generating code
+  2 of 861 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RansomWare-decrypt.vcxproj -> C:\Users\lasse\Desktop\Odyssey-RansomWare\RansomWare-decrypt\x64\Release\RansomWare-decrypt.exe
